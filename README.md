@@ -1,16 +1,15 @@
-### Hi there 👋
+I am a coder who creates stupid and random programs for the fun of it. I am also the Owner of SimpleEdit, an external Geometry Dash editor.
+I code with JS sometimes, but I often create pages with HTML.
+I'm currently learning CSS and python.
 
-<!--
-**AmpersandGD/AmpersandGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![D1WK's github stats](https://github-readme-stats.vercel.app/api?username=AmpersandGD&show_icons=true&theme=midnight-purple)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmpersandGD&langs_count=3&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AmpersandGD&repo=d1wk.github.io&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmpersandGD&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
